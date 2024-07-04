@@ -2,22 +2,22 @@
 home: true
 title: Home
 heroImage: /heroo.png
-heroText: 正在建设ING
+heroText: 小宋知识库
 tagline: 繁星似海 熠熠生辉
 actions:
 - text: 快速开始
-  link: /get-started.html
+  link: /js/
   type: primary
 - text: 博客
   link: https://blog.csdn.net/leader_song
   type: secondary
 - text: 关于我
-  link: https://github.com/leaderrSong/min/actions/runs/9784875330
+  link: /about.html
   type: secondary
 
 features:
-- title: 笔记
-  details: Markdown语言，CSDN 35W+ 博主
+- title: 沉淀
+  details: CSDN 35W+ 博主
   link: https://www.baidu.com
 - title: 博客
   details: 干净整洁的博客，易于存档文件

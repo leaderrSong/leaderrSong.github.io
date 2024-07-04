@@ -38,7 +38,7 @@ export default defineUserConfig({
   // }
 
   theme: defaultTheme({
-    logo: 'https://vuejs.press/images/hero.png',
+    logo: 'https://tse3-mm.cn.bing.net/th/id/OIP-C.LLcz4HlHHUTNhEFPyk6h0wHaHa?w=207&h=207&c=7&r=0&o=5&dpr=1.1&pid=1.7',
     repo: 'leaderrSong/min',
     locales: {
       '/': {

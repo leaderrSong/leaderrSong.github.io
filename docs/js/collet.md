@@ -1,6 +1,5 @@
-# 3. 集合面试总集.md
-## 01.java有哪些常用集合
-![](https://cdn.nlark.com/yuque/0/2022/png/29328785/1660133916492-1608c54f-be86-4dde-881f-b7f3f99b623b.png#averageHue=%23f7f7f7&clientId=u7b6984b8-f435-4&from=paste&height=386&id=u93c392db&originHeight=515&originWidth=1298&originalType=binary&ratio=1&rotation=0&showTitle=false&size=238739&status=done&style=none&taskId=ub985d5c6-e677-4525-b1e2-314d567b7a8&title=&width=974#averageHue=%23f7f7f7&id=wuhet&originHeight=515&originWidth=1298&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=shadow)![](https://cdn.nlark.com/yuque/0/2022/png/29328785/1660133928999-af3ecf43-6e93-4017-ba53-b4f18f132ce4.png#averageHue=%23f5f5f5&clientId=u7b6984b8-f435-4&from=paste&height=296&id=ua1c36fa8&originHeight=394&originWidth=986&originalType=binary&ratio=1&rotation=0&showTitle=false&size=135785&status=done&style=none&taskId=u0320983f-a1f9-441b-9981-269f0770fca&title=&width=740#averageHue=%23f5f5f5&id=zSKCW&originHeight=394&originWidth=986&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none)
+# 3. 集合面试总集
+
 ## 02.ArrayList和Vector的联系和区别
  相同点： *
 底层都使用数组实现 

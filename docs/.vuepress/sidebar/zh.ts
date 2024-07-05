@@ -15,11 +15,7 @@ export const zhSidebar = {
                 },
                 {
                     text:'3.集合',
-                    link:'3. collet'
-                },
-                {
-                    text:'3.集合',
-                    link:'3. collet'
+                    link:'collet'
                 },
                 {
                     text:'4.Mysql',

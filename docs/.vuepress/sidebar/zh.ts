@@ -42,4 +42,26 @@ export const zhSidebar = {
 
 
     ],
+
+  '/person/': [
+      {
+          text: '认知',
+          //可折叠侧边栏
+          collapsible: true,
+          children: [
+              {
+                  text:'1.两会中大力发展新质生产力？对计算机的影响',
+                  link:'qu'
+              },
+              {
+                  text:'2.区块链研究——对计算机的影响',
+                  link:'line'
+              },
+
+          ],
+      }
+
+
+  ],
+
 }

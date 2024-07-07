@@ -50,7 +50,13 @@ export const zhNavbar = [
         text: '关于',
         link: '/about',
     },
-    
+    {
+        text: '思考',
+        children: [
+            { text: '个人感悟', link: '/person/' },
+            { text: '个人成长', link: 'english' }
+        ],
+    },
     // 字符串 - 页面文件路径
     // '/Guide/README.md',
 ]

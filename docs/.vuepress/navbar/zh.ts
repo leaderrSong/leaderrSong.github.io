@@ -33,11 +33,8 @@ export const zhNavbar = [
     },
     //多个条目
     {
-        text: '工具',
-        children: [
-            { text: 'windows', link: 'politics' },
-            { text: 'mac', link: 'english' }
-        ],
+        text: 'Ai工具',
+        link: '/ai/',
     },
     {
         text: '知识星球',
